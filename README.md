@@ -79,3 +79,4 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 ## 👩‍💻 Author
 
 Chaymae Hanida — Master's student in Machine Learning Avancé et Intelligence Multimédia (MLAIM), USMBA Fès.
+"# credit-scoring-app" 
