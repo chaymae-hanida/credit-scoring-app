@@ -3,7 +3,7 @@
 End-to-end machine learning project that predicts a client's loan default risk, deployed as a **REST API (FastAPI)** with a **web interface (Streamlit)**.
 
 ## 🎯 Overview
-
+🔗 **[Live Demo](https://chaymaehanida123-credit-scoring-app-frontendapp-mgdd9k.streamlit.app/)** — Try it now, no installation needed!
 Built on top of a Random Forest classifier trained on the [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset), this project goes beyond a Jupyter notebook: the model is exposed through a production-style API and a user-friendly web app, so a non-technical user can get a real-time credit decision.
 
 **Model performance:**
